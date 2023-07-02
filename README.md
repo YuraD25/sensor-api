@@ -16,7 +16,7 @@ Installation instructions
 
 
 1. ```bash
-   git clone 
+   download archive 
    ```
 
 
