@@ -19,7 +19,7 @@ Installation instructions
 
 
 2. ```bash
-   docker-compose -d up --build 
+   docker-compose up -d
    ```
 
 How to test?
