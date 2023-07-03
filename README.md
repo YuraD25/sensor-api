@@ -4,14 +4,13 @@ Sensor Homework
 Installation instructions
 -------------------------
 
-### Development Installation with Docker
 
 ## Requirements
 - Docker 19+
 - docker-compose >= 1.24
 
 
-
+### Development Installation with Docker
 
 1. ```bash
    download archive 
